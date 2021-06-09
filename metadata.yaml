@@ -1,5 +1,5 @@
 homepage: "https://floup-chatbot.web.app"
-documentation: "https://floup-chatbot.web.app/dashboard"
+documentation: "https://floup-chatbot.web.app/documentation"
 versions:
   - sha: 2f0db228106d2584f4a91e4431504f7d4d2fa494
     changeNotes: Initial release.
